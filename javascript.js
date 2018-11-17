@@ -10,7 +10,7 @@ var prompts = [
   'Udmattet'
   'Stjerne'
   'Dyrebar'
-  'Flyderø
+  'Flyder'
   'Grusom'
   'Hval'
   'Bevogtet'
