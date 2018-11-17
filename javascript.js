@@ -1,3 +1,4 @@
+var randomNumber = Math.floor(Math.random() * 20);
 var prompts = [
   'Varm'
   'Kold'
