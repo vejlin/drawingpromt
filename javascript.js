@@ -4,7 +4,7 @@ var prompts = [
   'Giftig'
   'Rolig'
   'Ristet'
-  'Fortryllet*
+  'Fortryllet'
   'Kylling'
   'Savle'
   'Udmattet'
